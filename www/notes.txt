@@ -1,0 +1,6 @@
+Outstanding questions/comments:
+
+- For launches menu, the preview has a countdown for the auction section, but I don't think a countdown will actually fit there, especially if it has days/hours/mins and the title is longer. I left it out for now.
+- Not sure if we are going to keep the cart functionality, leaving it out for now since we don't have a mock for it. Probably better to leave it out for MVP.
+- Skipped slideshow for now, will work on that later after we have the model layer more fleshed out.
+- Will update site with fonts later.
